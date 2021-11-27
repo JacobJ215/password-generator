@@ -1,3 +1,3 @@
 # password-generator
 
-## This a password generator created using the django framework
+This a password generator created using the django framework
